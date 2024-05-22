@@ -2,7 +2,7 @@
 - 👀 I’m interested in automation and ML
 - 🌱 I’m currently learning python, solidity, JS, GO
 - 💞️ I’m looking to collaborate on trading bot and other crypto/finance automation projects
-- 📫 How to reach me : www.alibouhaddou.com
+- 📫 How to reach me : alibouhaddou@gmail.com
 
 <!---
 Combata/Combata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
