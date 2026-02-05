@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Combata
 - 👀 I’m interested in automation and business
-- 🌱 I’m currently learning M365, C#, javascript, video editing
-- 💞️ I’m looking to collaborate on power platform projects
-- 📫 How to reach me : alibouhaddou@proton.me
+- 🌱 I’m currently learning playwright
+- 💞️ I’m looking to collaborate on power platform projects and qa automation testing
 
 <!---
 Combata/Combata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
