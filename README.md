@@ -1,5 +1,5 @@
-AI & Automation consultant
-Building Specs Driven Apps using AI
-Miscrosoft Power Platform certified
-Automating QA testing with Playwright
-Lifelong learner
+- AI & Automation consultant
+- Building Specs Driven Apps using AI
+- Miscrosoft Power Platform certified
+- Automating QA testing with Playwright
+- Lifelong learner
